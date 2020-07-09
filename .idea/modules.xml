@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MarsRealEstate-Starter.iml" filepath="$PROJECT_DIR$/.idea/modules/MarsRealEstate-Starter.iml" group="MarsRealEstate-Starter" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="MarsRealEstate-Starter/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="network-request-con-retrofit-petrlr14/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/network-request-con-retrofit-petrlr14.iml" filepath="$PROJECT_DIR$/.idea/modules/network-request-con-retrofit-petrlr14.iml" group="network-request-con-retrofit-petrlr14" />
     </modules>
   </component>
 </project>
